@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\yihua\desktop\hw2\hw2\main.cpp(88): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\yihua\desktop\hw2\hw2\main.cpp(107): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yihua\desktop\hw2\hw2\main.cpp(169): warning C4305: 'initializing': truncation from 'double' to 'float'
+  hw2.vcxproj -> C:\Users\yihua\Desktop\hw2\Debug\hw2.exe

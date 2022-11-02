@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Karen\Desktop\20210115 hw4\hw4\include\FreeImage.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Karen\Desktop\20210115 hw4\hw4\main.cpp(43,48): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20210115 hw4\hw4\main.cpp(43,33): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20210115 hw4\hw4\main.cpp(67,36): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Karen\Desktop\20210115 hw4\hw4\main.cpp(73,19): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Karen\Desktop\20210115 hw4\hw4\main.cpp(173,18): warning C4244: '=': 將 'GLsizei' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20210115 hw4\hw4\main.cpp(174,18): warning C4244: '=': 將 'GLsizei' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  hw4.vcxproj -> C:\Users\Karen\Desktop\20210115 hw4\Debug\hw4.exe

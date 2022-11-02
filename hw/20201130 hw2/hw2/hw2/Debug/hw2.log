@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\include\FreeImage.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(123,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(140,14): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(240,32): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(240,17): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(244,32): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(244,17): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(248,32): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(248,17): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(252,32): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Karen\Desktop\20201130 hw2\hw2\hw2\main.cpp(252,17): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  hw2.vcxproj -> C:\Users\Karen\Desktop\20201130 hw2\hw2\Debug\hw2.exe

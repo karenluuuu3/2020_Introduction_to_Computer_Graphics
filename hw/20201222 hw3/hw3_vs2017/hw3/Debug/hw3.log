@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\yihuachiu\desktop\hw3\hw3\include\freeimage.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\yihuachiu\desktop\hw3\hw3\main.cpp(41): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\yihuachiu\desktop\hw3\hw3\main.cpp(129): warning C4244: '=': 將 'GLsizei' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\yihuachiu\desktop\hw3\hw3\main.cpp(130): warning C4244: '=': 將 'GLsizei' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\yihuachiu\desktop\hw3\hw3\main.cpp(257): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+c:\users\yihuachiu\desktop\hw3\hw3\main.cpp(273): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+  Object.cpp
+c:\users\yihuachiu\desktop\hw3\hw3\object.cpp(84): warning C4018: '<': signed/unsigned 不相符
+c:\users\yihuachiu\desktop\hw3\hw3\object.cpp(78): warning C4101: 'tmpVertex': 未參考的區域變數
+  stb_image.cpp
+  正在產生程式碼...
+  hw3.vcxproj -> C:\Users\yihuachiu\Desktop\hw3\Debug\hw3.exe

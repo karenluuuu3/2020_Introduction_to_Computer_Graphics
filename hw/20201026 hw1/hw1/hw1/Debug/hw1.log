@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Object.cpp
+D:\計圖學\hw\20201026 hw1\hw1\hw1\Object.cpp(70,14): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼...
+  hw1.vcxproj -> D:\計圖學\hw\20201026 hw1\hw1\Debug\hw1.exe
